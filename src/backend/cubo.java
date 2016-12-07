@@ -7,7 +7,7 @@ package backend;
  ***************
  */
 
-public class cubo {
+public class cubo implements Bloque {
 	private final static int COLOR = 6;
 	
 	public cubo(){
@@ -16,8 +16,8 @@ public class cubo {
 	public void tirar(){
 		
 	}
-	public darColor(){
+	public int darColor(){
 		return COLOR;
-	}
+	} 
 	
 }

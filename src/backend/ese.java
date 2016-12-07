@@ -7,7 +7,7 @@ package backend;
  *******◙*******
  ***************
  */
-public class ese {
+public class ese implements Bloque{
 	private final static int COLOR = 3;
 		
 		public ese(){

@@ -7,7 +7,7 @@ package backend;
  *********◙***
  *************
  */
-public class zeta {
+public class zeta implements Bloque {
 	private final static int COLOR = 2;
 	
 	public zeta(){

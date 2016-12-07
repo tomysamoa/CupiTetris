@@ -7,7 +7,7 @@ package backend;
  *********◙*****
  *********◙*****
  */
-public class raya {
+public class raya implements Bloque {
 	private final static int COLOR =5;
 	
 	public raya(){

@@ -8,7 +8,7 @@ package backend;
  *************
  */
 
-public class lel {
+public class lel implements Bloque {
 	private static final int COLOR = 1;
 		public lel(){
 			

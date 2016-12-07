@@ -6,7 +6,7 @@ package backend;
  *******◙ ◙ ◙***
  ***************
  */
-public class te {
+public class te implements Bloque{
 	private static final int COLOR =4;
 	
 		public te(){
